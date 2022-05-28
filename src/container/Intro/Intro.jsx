@@ -35,5 +35,5 @@ return (
   </div>
   )
 }
-
+// intro complelted
 export default Intro;
